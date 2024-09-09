@@ -220,6 +220,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
 - **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@sonamsahukitchen1471)
-- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/rajeshmsahu12/])
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/rajeshmsahu12/)
 
 I appreciate your support, and I look forward to connecting with you!
